@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Standard Event features</string>
+    <string name="clickable_ad_2">   Clickable Ad #2   </string>
+    <string name="skip2">Skip Ad 2</string>
+    <string name="skip1">Skip Ad 1</string>
+    <string name="clickable_ad_1">   Clickable Ad #1   </string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="fake_policy">Not an actual private policy. \nBy using the Services, you agree to these terms, the policies in our Privacy Center, and any community guidelines and supplemental terms provided to you for the Services that you use. Please read the Terms carefully, as they form your entire agreement with us</string>
+</resources>
